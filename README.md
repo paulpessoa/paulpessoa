@@ -1,9 +1,19 @@
-### Hi there 👋
+### Hi!! Welcome to my repository👋
 
 <!--
 **paulpessoa/paulpessoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
+<img src="{https://avatars.githubusercontent.com/u/63747003?v=4}" />
+
+[![Paul Pessoa GitHub stats](https://github-readme-stats.vercel.app/api?username=paulpessoa&show_icons)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulpessoa&layout=compact)
+
+
+
+
 
 - 🔭 I’m currently working on Upwork (freelancer) ...
 - 🌱 I’m currently learning React.js, Angular, TypeScript, Node.js...
@@ -14,6 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I always remove the onion from my MacDonals...
 - 🎓 Graduated in Business Management and MBA MBA in Information Technology Project Manager...
--->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulpessoa)](https://github.com/anuraghazra/github-readme-stats)
