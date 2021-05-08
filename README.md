@@ -3,6 +3,10 @@
 <!--
 **paulpessoa/paulpessoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+
+[![Paul Pessoa GitHub stats](https://github-readme-stats.vercel.app/api?username=paulpessoa&show_icons)](https://www.linkedin.com/in/paulmspessoa/)
+
+
 -->
 
 <p><i>Student Web Frontend Developer</i></p>
@@ -12,8 +16,6 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulmspessoa@gmail.com)](mailto:paulmspessoa@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/paulmspessoa/)](https://www.instagram.com/paulmspessoa/)
 
-
-[![Paul Pessoa GitHub stats](https://github-readme-stats.vercel.app/api?username=paulpessoa&show_icons)](https://www.linkedin.com/in/paulmspessoa/)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulpessoa&layout=compact)](https://www.linkedin.com/in/paulmspessoa/)
 
