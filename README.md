@@ -3,10 +3,6 @@
 <!--
 **paulpessoa/paulpessoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
-[![Paul Pessoa GitHub stats](https://github-readme-stats.vercel.app/api?username=paulpessoa&show_icons)](https://www.linkedin.com/in/paulmspessoa/)
-
-
 -->
 
 <p><i>Student Web Frontend Developer</i></p>
@@ -33,3 +29,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I always remove the onion from my MacDonals...
 - 🎓 Graduated in Business Management and MBA MBA in Information Technology Project Manager...
 
+[![Paul Pessoa GitHub stats](https://github-readme-stats.vercel.app/api?username=paulpessoa&show_icons)](https://www.linkedin.com/in/paulmspessoa/)
