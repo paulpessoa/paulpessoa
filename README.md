@@ -23,8 +23,8 @@ Here are some ideas to get you started:
   <a href="https://paulpessoa.github.io/MovieList/">
     <img  width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=paulpessoa&repo=MovieList&theme=tokyonight" alt="Movie List com TMDB API"/>
   </a>&ensp;&ensp;&ensp;
-  <a href="https://menvo-br.github.io/website/">
-    <img  width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=menvo-br&repo=website&theme=tokyonight" alt="Menvo Site"/>
+  <a href="https://paulpessoa.github.io/OhMyJob/">
+    <img  width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=paulpessoa&repo=OhMyJob&theme=tokyonight" alt="OhMyJob"/>
   </a>
 </div><br>  
   <div align="left" width="100%">
