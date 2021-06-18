@@ -3,7 +3,6 @@
 Here are some ideas to get you started:
 -->
 
-[<img src="https://github.com/paulpessoa/paulpessoa/blob/main/invite-rockeatseat.PNG">](https://nextlevelweek.com/convite/paulpessoa)
 
 <div style="display: inline_block"><br>
   
