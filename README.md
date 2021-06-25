@@ -3,6 +3,10 @@
 Here are some ideas to get you started:
 -->
 
+<h4 align="center">Visit Counter:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{paulpessoa}/count.svg" alt="Milena :: Visitor's Count" /></p>
+
+ 
 
 <div style="display: inline_block"><br>
   
