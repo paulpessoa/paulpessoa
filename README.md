@@ -1,6 +1,6 @@
 ## Front End Developer
 
-<a href="https://www.linkedin.com/in/paulmspessoa" target="blank">
+<a href="https://www.linkedin.com/in/paulmspessoa" target="_blank">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulpessoa&layout=compact&langs_count=16&theme=dracula"/>
 </a>
 
@@ -22,3 +22,8 @@
 - Amateur guitarist
 - Volunteer mentor and play hackathons in spare time
 - Countries I know: England, Spain, Italy, Portugal, Brazil
+
+
+<a href="https://www.linkedin.com/in/paulmspessoa" target="_blank">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulpessoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
