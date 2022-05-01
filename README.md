@@ -1,4 +1,4 @@
-## Front End Developer Jr
+## Front End Developer
 
 <a href="https://www.linkedin.com/in/paulmspessoa" target="_blank">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulpessoa&layout=compact&langs_count=16&theme=dracula"/>
