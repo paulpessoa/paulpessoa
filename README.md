@@ -1,7 +1,7 @@
 ## Frontend Engineer
 
 ### Academy:
-- (2023) 2nd Graduation Information Systems
+- (2024) 2nd Graduation Information Systems
 - (2020) MBA Project Management in IT
 - (2019) 1st Graduate Business Administration
 
