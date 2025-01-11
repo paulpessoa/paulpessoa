@@ -12,13 +12,11 @@
 
 ```typescript
 const paul = {
-  education: {
-    current: "Information Systems (2024)",
-    completed: [
-      "MBA Project Management in IT (2020)",
-      "Business Administration (2019)"
-    ]
-  },
+  education: [
+    "Information Systems (2024)",
+    "MBA Project Management in IT (2020)",
+    "Business Administration (2019)"
+  ],
   languages: ["🇺🇸 English", "🇪🇸 Spanish", "🇧🇷 Portuguese"],
   passions: ["🎸 Guitar", "🍺 Craft Beer", "👨‍🏫 Mentoring"],
   travels: ["🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", "🇪🇸 Spain", "🇮🇹 Italy", "🇵🇹 Portugal", "🇧🇷 Brazil"]
