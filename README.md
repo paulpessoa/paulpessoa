@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=building+React+and+Next.js+apps;crafting+fintech+and+SaaS+UIs;designing+high-performance+web+interfaces;creating+AI-assisted+productivity+tools&font=Fira+Code&size=20&duration=3000&pause=1000&color=70A5FD&background=1A1B2700&center=true&vCenter=true&width=500&height=55)](https://git.io/typing-svg)
 
-**Frontend Engineer (React / Next.js)**
+**Full-Stack Engineer (Frontend Focused)**
 
 6+ years of experience building scalable web applications in Ag-Fintech and Enterprise SaaS environments.<br>
 Based in Recife, Brazil (GMT-3) · 6+ years working remotely with distributed teams across US, Europe, and LATAM.
