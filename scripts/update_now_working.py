@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 """Summarize recent public-repo commits via Claude Haiku and write NOW.md.
 
-Runs nightly in GitHub Actions. Consumed by wshoffner.dev's now.working
-panel, which fetches NOW.md from raw.githubusercontent.com at build time
-with hourly ISR revalidation.
+Runs nightly in GitHub Actions to update NOW.md.
 
 Two sources are merged:
   1. Own repos — /repos/{user}/{repo}/commits for every public non-fork
