@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-07-26T08:23:45Z
+updatedAt: 2026-07-27T09:49:04Z
 summary: "Building scalable applications, crafting high-performance PWAs, and integrating AI products."
 projects:
   - { repo: "umamusica", commits: 8, msg: "feat: rate limit diario de custo de IA por usuario", latest_sha: "0384a3c", ts: "1w", tag: g }
