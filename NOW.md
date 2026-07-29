@@ -1,8 +1,8 @@
 ---
-updatedAt: 2026-07-28T08:31:10Z
+updatedAt: 2026-07-29T08:37:42Z
 summary: "Building scalable applications, crafting high-performance PWAs, and integrating AI products."
 projects:
-  - { repo: "umamusica", commits: 8, msg: "feat: rate limit diario de custo de IA por usuario", latest_sha: "0384a3c", ts: "1w", tag: g }
+  - { repo: "umamusica", commits: 6, msg: "feat: rate limit diario de custo de IA por usuario", latest_sha: "0384a3c", ts: "1w", tag: g }
   - { repo: "monolitosvalley/site", commits: 8, msg: "security: hardening RLS policies for storage and tables", latest_sha: "c88f385", ts: "1w", tag: g }
 ---
 
@@ -14,5 +14,5 @@ _Auto-updated nightly. Public-repo commits only._
 
 | Project | Commits | Activity | Latest |
 |---|---|---|---|
-| umamusica | 8 | feat: rate limit diario de custo de IA por usuario | 1w |
+| umamusica | 6 | feat: rate limit diario de custo de IA por usuario | 1w |
 | monolitosvalley/site | 8 | security: hardening RLS policies for storage and tables | 1w |
