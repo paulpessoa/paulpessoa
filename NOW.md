@@ -1,9 +1,9 @@
 ---
-updatedAt: 2026-08-16T06:36:19Z
+updatedAt: 2026-08-17T06:51:23Z
 summary: "Building scalable applications, crafting high-performance PWAs, and integrating AI products."
 projects:
+  - { repo: "umamusica", commits: 2, msg: "fix: explicit CORS origins, OPTIONS preflight handler and body parser", latest_sha: "234f2a6", ts: "9h", tag: c }
   - { repo: "gaga-list", commits: 1, msg: "chore: update .gitignore to ignore vercel and local env files", latest_sha: "5545e5d", ts: "1w", tag: g }
-  - { repo: "umamusica", commits: 1, msg: "feat: enable RLS for AI usage and rate limit tables, format index.html", latest_sha: "fa5a203", ts: "1w", tag: g }
   - { repo: "estagionauta", commits: 1, msg: "feat: add terms and conditions acceptance checkbox to register page", latest_sha: "8fb1d09", ts: "1w", tag: g }
 ---
 
@@ -15,6 +15,6 @@ _Auto-updated nightly. Public-repo commits only._
 
 | Project | Commits | Activity | Latest |
 |---|---|---|---|
+| umamusica | 2 | fix: explicit CORS origins, OPTIONS preflight handler and body parser | 9h |
 | gaga-list | 1 | chore: update .gitignore to ignore vercel and local env files | 1w |
-| umamusica | 1 | feat: enable RLS for AI usage and rate limit tables, format index.html | 1w |
 | estagionauta | 1 | feat: add terms and conditions acceptance checkbox to register page | 1w |
