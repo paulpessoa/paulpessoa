@@ -2,7 +2,7 @@
 
 # Hey, I'm Paul Pessoa
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=building+React+and+Next.js+apps;crafting+fintech+and+SaaS+UIs;designing+high-performance+web+interfaces;creating+AI-assisted+productivity+tools&font=Fira+Code&size=20&duration=3000&pause=1000&color=70A5FD&background=1A1B2700&center=true&vCenter=true&width=500&height=55)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=building+React+and+Next.js+apps;crafting+fintech+and+SaaS+UIs;designing+high-performance+web+interfaces;creating+AI-assisted+productivity[...]
 
 **FullStack Engineer - Heavy Frontend (ReactJS)**
 
@@ -19,8 +19,8 @@ Based in Recife, Brazil (GMT-3) · 6+ years working remotely with distributed te
 
 ## 💼 Professional Summary
 
-* **Ag-Fintech Experience (Traive):** Designed and evolved complex financial interfaces used by agribusiness clients across LATAM, collaborating closely with product, backend, and data teams to ship reliable, high-performance features.
-* **Enterprise SaaS Experience (GEP Worldwide):** Contributed to enterprise-grade procurement and analytics platforms serving 400+ global organizations, including 25+ Fortune 500 companies, delivering interactive dashboards and data-heavy workflows with measurable business impact.
+* **Ag-Fintech Experience (Traive):** Designed and evolved complex financial interfaces used by agribusiness clients across LATAM, collaborating closely with product, backend, and data teams to sh[...]
+* **Enterprise SaaS Experience (GEP Worldwide):** Contributed to enterprise-grade procurement and analytics platforms serving 400+ global organizations, including 25+ Fortune 500 companies, delive[...]
 * **Mentorship & Community:** Founded **Menvo**, a volunteer mentorship initiative aimed at democratizing access to career guidance and professional development for students.
 
 ---
@@ -42,10 +42,15 @@ A free mentoring platform connecting experienced professionals with students see
 * **Tech Stack:** Next.js, React, Supabase, Tailwind CSS, Radix UI.
 * **Key Features:** Real-time chat integration, video call booking system, and Google Calendar sync.
 
-### [Notidem ✍️](https://github.com/paulpessoa/notidem-repo)
+### [Notidem ✍️](https://github.com/paulpessoa/notidem)
 An open-source Chrome extension that helps users draft genuine, on-brand LinkedIn comments in their own voice.
 * **Tech Stack:** Chrome Manifest V3, Vanilla JavaScript, Web Crypto API (AES-GCM encryption at rest).
 * **Key Features:** Isolated worker background key-handling, context-aware tone selector, local-only storage, and synthetic editor paste.
+
+### [Uma Música 🎵](https://umamusica.vercel.app)
+A modern music discovery and playlist management application.
+* **Tech Stack:** React, Next.js, Vercel.
+* **Key Features:** Intuitive music browsing, personalized playlists, and seamless streaming experience.
 
 ---
 
