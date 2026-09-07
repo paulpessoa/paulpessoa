@@ -2,7 +2,7 @@
 
 # Hey, I'm Paul Pessoa
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=building+React+and+Next.js+apps;crafting+fintech+and+SaaS+UIs;designing+high-performance+web+interfaces;creating+AI-assisted+productivity[...]
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=building+React+and+Next.js+apps;crafting+fintech+and+SaaS+UIs;designing+high-performance+web+interfaces;creating+AI-assisted+productivity+tools)
 
 **FullStack Engineer - Heavy Frontend (ReactJS)**
 
