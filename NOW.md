@@ -1,12 +1,10 @@
 ---
-updatedAt: 2026-09-15T11:06:23Z
+updatedAt: 2026-09-16T10:51:58Z
 summary: "Building scalable applications, crafting high-performance PWAs, and integrating AI products."
 projects:
-  - { repo: "menvo", commits: 8, msg: "feat(security): enforce admin and onboarding gates server-side in middleware (#44)", latest_sha: "9f6d362", ts: "6h", tag: g }
-  - { repo: "leilometro", commits: 2, msg: "chore: bump version to 1.0.1", latest_sha: "70ab556", ts: "1d", tag: g }
-  - { repo: "leilometro-extensao", commits: 2, msg: "chore(release): bump extension version to 1.0.1 for Chrome Web Store", latest_sha: "f0dd964", ts: "1d", tag: g }
-  - { repo: "gaga-list", commits: 4, msg: "feat(ai): refine GEMINI_FALLBACK_MODELS to gemini-3.5-flash-lite and gemini-3.1-flash-lite", latest_sha: "590f239", ts: "1w", tag: g }
-  - { repo: "umamusica", commits: 7, msg: "feat(ai): update Gemini model to gemini-3.5-flash-lite", latest_sha: "e296b05", ts: "1w", tag: g }
+  - { repo: "menvo", commits: 8, msg: "docs: reorganize docs, add Clarity insights, UI audit, and multi-tenant roadmap", latest_sha: "4c7b995", ts: "5h", tag: g }
+  - { repo: "leilometro", commits: 2, msg: "chore: bump version to 1.0.1", latest_sha: "70ab556", ts: "2d", tag: g }
+  - { repo: "leilometro-extensao", commits: 2, msg: "chore(release): bump extension version to 1.0.1 for Chrome Web Store", latest_sha: "f0dd964", ts: "2d", tag: g }
 ---
 
 ## now.working
@@ -17,8 +15,6 @@ _Auto-updated nightly. Public-repo commits only._
 
 | Project | Commits | Activity | Latest |
 |---|---|---|---|
-| menvo | 8 | feat(security): enforce admin and onboarding gates server-side in middleware (#44) | 6h |
-| leilometro | 2 | chore: bump version to 1.0.1 | 1d |
-| leilometro-extensao | 2 | chore(release): bump extension version to 1.0.1 for Chrome Web Store | 1d |
-| gaga-list | 4 | feat(ai): refine GEMINI_FALLBACK_MODELS to gemini-3.5-flash-lite and gemini-3.1-flash-lite | 1w |
-| umamusica | 7 | feat(ai): update Gemini model to gemini-3.5-flash-lite | 1w |
+| menvo | 8 | docs: reorganize docs, add Clarity insights, UI audit, and multi-tenant roadmap | 5h |
+| leilometro | 2 | chore: bump version to 1.0.1 | 2d |
+| leilometro-extensao | 2 | chore(release): bump extension version to 1.0.1 for Chrome Web Store | 2d |
