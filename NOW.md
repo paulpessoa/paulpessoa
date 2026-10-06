@@ -1,10 +1,10 @@
 ---
-updatedAt: 2026-10-05T13:38:35Z
+updatedAt: 2026-10-06T12:46:20Z
 summary: "Building scalable applications, crafting high-performance PWAs, and integrating AI products."
 projects:
-  - { repo: "menvo", commits: 8, msg: "feat: add admin activity logs page with search", latest_sha: "f9c1685", ts: "1d", tag: g }
-  - { repo: "gaga-list", commits: 8, msg: "feat: add Alexa interaction model for Brazilian Portuguese", latest_sha: "7aeb7dc", ts: "3d", tag: g }
-  - { repo: "umamusica", commits: 8, msg: "chore: save local updates on env.example and AGENTS.md", latest_sha: "e6f11f3", ts: "1w", tag: g }
+  - { repo: "umamusica", commits: 8, msg: "Merge origin/main: integrate CI gate and P2/P3 work with Render migration", latest_sha: "3e1d0f1", ts: "16h", tag: g }
+  - { repo: "menvo", commits: 8, msg: "feat: add admin activity logs page with search", latest_sha: "f9c1685", ts: "2d", tag: g }
+  - { repo: "gaga-list", commits: 8, msg: "feat: add Alexa interaction model for Brazilian Portuguese", latest_sha: "7aeb7dc", ts: "4d", tag: g }
 ---
 
 ## now.working
@@ -15,6 +15,6 @@ _Auto-updated nightly. Public-repo commits only._
 
 | Project | Commits | Activity | Latest |
 |---|---|---|---|
-| menvo | 8 | feat: add admin activity logs page with search | 1d |
-| gaga-list | 8 | feat: add Alexa interaction model for Brazilian Portuguese | 3d |
-| umamusica | 8 | chore: save local updates on env.example and AGENTS.md | 1w |
+| umamusica | 8 | Merge origin/main: integrate CI gate and P2/P3 work with Render migration | 16h |
+| menvo | 8 | feat: add admin activity logs page with search | 2d |
+| gaga-list | 8 | feat: add Alexa interaction model for Brazilian Portuguese | 4d |
