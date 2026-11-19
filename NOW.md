@@ -1,5 +1,5 @@
 ---
-updatedAt: 2026-11-18T15:07:42Z
+updatedAt: 2026-11-19T15:16:23Z
 summary: "Building scalable applications, crafting high-performance PWAs, and integrating AI products."
 projects:
 ---
